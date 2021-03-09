@@ -1,5 +1,7 @@
 **Privacy Policy**
 
+Last Updated: 2021-3-9
+
 kross built the Make More Melon app as an Ad Supported app. This SERVICE is provided by kross at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
@@ -14,12 +16,8 @@ For a better experience, while using our Service, I may require you to provide u
 
 The app does use third party services that may collect information used to identify you.
 
-* [UnityAds]
-> Unity Ads has probably collected device information, like IP address and device identifiers, and information regarding the delivery of ads and your interaction with them, all of which may be shared with ad publishers and attribution companies. For clarity, Unity collects the following data: whether you click or tap an ad for a new game, whether you watch the ad or play a game frequently, whether others playing a game like the one you’re playing have downloaded a particular new game, and whether you download and install the new game you see advertised. All of this is for purposes of predicting the types of new games that you might like to download. Unity may track additional data about you in the future for purposes of making these types of predictions, and we will notify you prior to new data collection.
-
-Link to privacy policy of third party service providers used by the app
-
-*   [Unity](https://unity3d.com/legal/privacy-policy)
+* [Unity Ads](https://unity3d.com/legal/privacy-policy)
+>Unity Ads has probably collected device information, like IP address and device identifiers, and information regarding the delivery of ads and your interaction with them, all of which may be shared with ad publishers and attribution companies. For clarity, Unity collects the following data: whether you click or tap an ad for a new game, whether you watch the ad or play a game frequently, whether others playing a game like the one you’re playing have downloaded a particular new game, and whether you download and install the new game you see advertised. All of this is for purposes of predicting the types of new games that you might like to download. Unity may track additional data about you in the future for purposes of making these types of predictions, and we will notify you prior to new data collection.
 
 **Log Data**
 
