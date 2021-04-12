@@ -1,8 +1,8 @@
-**Privacy Policy**
+# Paper Plane Master Privacy Policy
 
 Last Updated: 2021-4-12
 
-kross built the Paper Plane Master app as an normal game app. This SERVICE is provided by kross at no cost and is intended for use as is.
+kross built the **Paper Plane Master** app as an normal game app. This SERVICE is provided by kross at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
