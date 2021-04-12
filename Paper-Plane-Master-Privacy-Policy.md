@@ -2,7 +2,7 @@
 
 Last Updated: 2021-4-12
 
-kross built the Paper Plane Master app as an Ad Supported app. This SERVICE is provided by kross at no cost and is intended for use as is.
+kross built the Paper Plane Master app as an normal game app. This SERVICE is provided by kross at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -14,7 +14,11 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
 
-The app doesn't use third party services that may collect information used to identify you.
+The app does use third party services that may collect information used to identify you and improve the player experience.
+
+* [Unity Analytics](https://unity3d.com/legal/privacy-policy) will collect below information:
+  * Device Information: including various unique identifiers, such as IDFA, Android Ad ID, IDFV, MAC address
+  * Game play activity and actions
 
 **Log Data**
 
@@ -53,7 +57,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2021-4-12
+This policy is effective as of 2021-04-12
 
 **Contact Us**
 
